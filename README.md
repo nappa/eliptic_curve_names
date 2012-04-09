@@ -1,6 +1,6 @@
 List of ECC Curve names:
 
-OpenSSL   | SECG      | NIST     | Description
+OpenSSL   | SECG      | NIST     | Description by OpenSSL
 ----------|-----------|----------|------------------------------------------------------
 secp112r1 | secp112r1 | -        | SECG/WTLS curve over a 112 bit prime field
 secp112r2 | secp112r2 | -        | SECG curve over a 112 bit prime field
